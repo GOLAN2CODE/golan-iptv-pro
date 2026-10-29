@@ -1,5 +1,7 @@
 # Golan IPTV Pro
 
+[دليل الاستخدام وأسئلة التكلفة والحاسوب](GUIDE.ar.md)
+
 [English](README.md)
 
 
@@ -7,7 +9,7 @@
 
 ## التنزيل والتثبيت
 
-نزّل APK الحالي **ARM64 Debug** وأرشيف المصدر الكامل من [الإصدارات](https://github.com/dark9guna/golan-iptv-pro/releases). فك ضغط المصدر قبل البناء. يحتاج APK جهاز ARM64 ونظام Android 7 / API 24 فأحدث. الملف تطويري ونُسخ دون تغيير؛ تحديث نسخة مثبتة يحتاج توقيعًا مطابقًا.
+نزّل APK الحالي **ARM64 Debug** وأرشيف المصدر الكامل من [الإصدارات](https://github.com/GOLAN2CODE/golan-iptv-pro/releases). فك ضغط المصدر قبل البناء. يحتاج APK جهاز ARM64 ونظام Android 7 / API 24 فأحدث. الملف تطويري ونُسخ دون تغيير؛ تحديث نسخة مثبتة يحتاج توقيعًا مطابقًا.
 
 ```powershell
 adb install -r Golan-IPTV-Pro-arm64-debug.apk

@@ -1,5 +1,7 @@
 # Golan IPTV Pro
 
+[Practical guide and cost/PC FAQ](GUIDE.md)
+
 [العربية](README.ar.md)
 
 
@@ -7,7 +9,7 @@ Flutter IPTV player for Android and Android TV. Current version: **4.6.0+9**; th
 
 ## Download and install
 
-Get the unchanged existing **ARM64 Debug APK** and complete source ZIP from [Releases](https://github.com/dark9guna/golan-iptv-pro/releases). Extract the source ZIP before building. The supplied APK requires Android 7 / API 24 or later and an ARM64 device. It is a development build. A matching certificate is required to update an installed copy.
+Get the unchanged existing **ARM64 Debug APK** and complete source ZIP from [Releases](https://github.com/GOLAN2CODE/golan-iptv-pro/releases). Extract the source ZIP before building. The supplied APK requires Android 7 / API 24 or later and an ARM64 device. It is a development build. A matching certificate is required to update an installed copy.
 
 ```powershell
 adb install -r Golan-IPTV-Pro-arm64-debug.apk
